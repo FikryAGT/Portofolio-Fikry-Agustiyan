@@ -1,0 +1,531 @@
+.thank-you-for {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.footer {
+  position: absolute;
+  color: #000;
+}
+.footer {
+  top: 3472px;
+  left: 404px;
+  width: 342px;
+  height: 42px;
+  text-align: left;
+  font-size: 28px;
+  font-family: Poppins;
+}
+
+.input-submit,
+.submit-button {
+  position: absolute;
+  left: 0;
+  width: 128px;
+  height: 40px;
+}
+.submit-button {
+  border: 2px solid #ae1b1b;
+  background-color: transparent;
+  top: 0;
+  border-radius: 50px;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Plus Jakarta Sans";
+  text-align: center;
+}
+.input-submit {
+  top: 450px;
+}
+.input-message,
+.message-button {
+  position: absolute;
+  left: 0;
+  width: 425px;
+  height: 250px;
+}
+.message-button {
+  border: 2px solid #ae1b1b;
+  background-color: transparent;
+  top: 0;
+  border-radius: 20px;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Plus Jakarta Sans";
+  color: #000;
+  text-align: left;
+  opacity: 0.75;
+}
+.input-message {
+  top: 160px;
+}
+.email-button,
+.input-email {
+  position: absolute;
+  left: 0;
+  width: 425px;
+  height: 40px;
+}
+.email-button {
+  border: 2px solid #ae1b1b;
+  background-color: transparent;
+  top: 0;
+  border-radius: 50px;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Plus Jakarta Sans";
+  color: #000;
+  text-align: left;
+  opacity: 0.75;
+}
+.input-email {
+  top: 80px;
+}
+.last-name-button {
+  border: 2px solid #ae1b1b;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  box-sizing: border-box;
+  width: 200px;
+  height: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Plus Jakarta Sans";
+  color: #000;
+  text-align: left;
+  opacity: 0.75;
+}
+.form-contact,
+.input-first-name,
+.input-last-name {
+  position: absolute;
+  top: 0;
+  left: 225px;
+  width: 200px;
+  height: 40px;
+}
+.form-contact,
+.input-first-name {
+  left: 0;
+}
+.form-contact {
+  top: 222px;
+  left: 444px;
+  width: 425px;
+  height: 490px;
+}
+.p {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Plus Jakarta Sans";
+  text-align: center;
+  opacity: 0.75;
+}
+.email,
+.freelance,
+.phone {
+  position: absolute;
+  top: 660px;
+  left: 202px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.email,
+.freelance {
+  top: 510px;
+}
+.freelance {
+  top: 360px;
+}
+.address {
+  margin: 0;
+  position: relative;
+  font-weight: 500;
+}
+.addres {
+  position: absolute;
+  top: 210px;
+  left: 202px;
+  height: 56px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.address-icon-1 {
+  position: relative;
+  width: 160px;
+  height: 100px;
+  object-fit: cover;
+}
+.many-icons {
+  position: absolute;
+  top: 191px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+}
+.contact-me {
+  margin: 0;
+  position: absolute;
+  top: 31px;
+  left: 298px;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: "Plus Jakarta Sans";
+}
+.contact-child {
+  position: absolute;
+  top: 27px;
+  left: 264px;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+.lets-talk-about {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 351px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Plus Jakarta Sans";
+  color: #ae1b1b;
+  text-align: center;
+}
+.contact {
+  position: absolute;
+  top: 2618px;
+  left: 141px;
+  width: 869px;
+  height: 896px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Poppins;
+}
+.project-1-icon {
+  position: relative;
+  width: 408px;
+  height: 285px;
+  object-fit: cover;
+}
+.many-project {
+  position: absolute;
+  top: 205px;
+  left: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+}
+.there-are-many {
+  display: block;
+}
+.there-are-many-container {
+  margin: 0;
+  position: absolute;
+  top: 77px;
+  left: 50px;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.my-project {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 312px;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: inherit;
+  text-align: left;
+}
+.project {
+  position: absolute;
+  top: 1991px;
+  left: 139px;
+  width: 871px;
+  height: 484px;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  font-family: "Plus Jakarta Sans";
+}
+.service-1-icon {
+  position: relative;
+  width: 278px;
+  height: 356px;
+  object-fit: cover;
+}
+.many-services {
+  position: absolute;
+  top: 218px;
+  left: -6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.my-awesome-service {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 216px;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: inherit;
+  text-align: left;
+}
+.services {
+  position: absolute;
+  top: 1301px;
+  left: 146px;
+  width: 872px;
+  height: 574px;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  font-family: "Plus Jakarta Sans";
+}
+.line-decor-icon,
+.tools-icon {
+  position: absolute;
+  top: 0;
+  left: 478px;
+  width: 323px;
+  height: 313px;
+  object-fit: cover;
+}
+.line-decor-icon {
+  top: 293px;
+  left: 0;
+  width: 166px;
+  height: 15px;
+}
+.there-are-many-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.there-are-many-container2 {
+  margin: 0;
+  position: absolute;
+  top: 124px;
+  left: 5px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 333px;
+}
+.tools-which-i {
+  margin: 0;
+  position: absolute;
+  top: 39px;
+  left: 6px;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.about {
+  position: absolute;
+  top: 841px;
+  left: 146px;
+  width: 801px;
+  height: 313px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "Plus Jakarta Sans";
+}
+.client-profil-1,
+.hero-img-icon {
+  position: absolute;
+  top: 32px;
+  left: 487px;
+  width: 380px;
+  height: 399.3px;
+  object-fit: cover;
+}
+.client-profil-1 {
+  top: 372px;
+  left: 5px;
+  width: 175px;
+  height: 58px;
+}
+.trusted-by {
+  font-weight: 600;
+}
+.trusted-by-over-container {
+  margin: 0;
+  position: absolute;
+  top: 331px;
+  left: 0;
+}
+.button-vp,
+.line-decor-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.line-decor-icon1 {
+  width: 166px;
+  height: 15px;
+  object-fit: cover;
+}
+.button-vp {
+  text-decoration: none;
+  border-radius: 100px;
+  border: 3px solid #ae1b1b;
+  box-sizing: border-box;
+  width: 170px;
+  height: 50px;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Poppins;
+  color: #ae1b1b;
+  text-align: center;
+  padding-top: 8px;
+}
+
+.button-dc,
+.view-portofolio {
+  position: absolute;
+  width: 170px;
+  height: 50px;
+}
+.view-portofolio {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 245px;
+  left: 199px;
+}
+.button-dc {
+  text-decoration: none;
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  background-color: #ae1b1b;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Poppins;
+  color: #fff;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.download-cv {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 245px;
+  left: 0;
+  width: 170px;
+  height: 50px;
+  
+}
+.will-help-you {
+  margin: 0;
+  position: absolute;
+  top: 195px;
+  left: 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+.hi-im-fikry {
+  margin: 0;
+}
+.hi-im-fikry-container {
+  margin: 0;
+  position: absolute;
+  top: 51px;
+  left: 0;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.home {
+  position: absolute;
+  top: 263px;
+  left: 146px;
+  width: 867px;
+  height: 431.3px;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: "Plus Jakarta Sans";
+}
+.hire-me {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+}
+.many-pages {
+  position: absolute;
+  top: 48px;
+  left: 413px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 10px;
+  gap: 20px;
+}
+.logo-icon {
+  position: absolute;
+  top: 11px;
+  left: 105px;
+  width: 228px;
+  height: 103px;
+  object-fit: cover;
+}
+.navbarr {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1150px;
+  height: 120px;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+  font-family: Poppins;
+}
+.hire-me:hover{
+  color: white;
+  background-color: #ae1b1b;
+  width: 150px;
+  border-radius: 100px;
+
+}
+.portofolio {
+  position: relative;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 100%;
+  height: 3557px;
+  overflow: hidden;
+}
